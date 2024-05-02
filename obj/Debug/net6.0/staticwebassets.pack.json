@@ -1,0 +1,1113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\font\\ytp-regular.html",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\ytp-regular.html"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\book-a-table.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\book-a-table.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\breath.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\breath.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\count.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\count.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\deal-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg-2.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\deal-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\deal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\offer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\offer.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\popular.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\popular.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\banner\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\table.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-comment1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment1.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-comment2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment2.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-dec-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-dec-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\sliderbar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\sliderbar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\blog\\sliderbar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l15.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l17.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l7.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l8.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\gallery\\l9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l9.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\logo\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\pro-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\pro-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\pro-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\product\\pro-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\slider\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\18.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\slider\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\video.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\tesi-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-1.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\img\\team\\tesi-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-2.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\vendor\\jquery-v1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-v1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.7.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image0370d04a-0c91-40f6-9115-d39230d36ccc.png",
+      "PackagePath": "staticwebassets\\images\\Image0370d04a-0c91-40f6-9115-d39230d36ccc.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image084af3a1-24d2-43b1-8ad1-2167bc16c92a.jpg",
+      "PackagePath": "staticwebassets\\images\\Image084af3a1-24d2-43b1-8ad1-2167bc16c92a.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image09566bdb-0da2-485c-a270-1d1d3fd3a5f9.png",
+      "PackagePath": "staticwebassets\\images\\Image09566bdb-0da2-485c-a270-1d1d3fd3a5f9.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image0b80fc0d-1129-4aee-8ec2-5492a59dde85.png",
+      "PackagePath": "staticwebassets\\images\\Image0b80fc0d-1129-4aee-8ec2-5492a59dde85.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image132fb3f9-d182-49f8-91b1-428ed0631503.jpg",
+      "PackagePath": "staticwebassets\\images\\Image132fb3f9-d182-49f8-91b1-428ed0631503.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image14e665d5-31fe-4308-9167-b7d5ab66006b.jpg",
+      "PackagePath": "staticwebassets\\images\\Image14e665d5-31fe-4308-9167-b7d5ab66006b.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image19f3c51e-b5b9-4114-b1c4-3b54472f13a7.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image19f3c51e-b5b9-4114-b1c4-3b54472f13a7.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image1df74655-dfaf-490d-af5d-338cc891523a.jpg",
+      "PackagePath": "staticwebassets\\images\\Image1df74655-dfaf-490d-af5d-338cc891523a.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image1eb17b0f-ac75-4b79-8970-3e11a1f8078e.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image1eb17b0f-ac75-4b79-8970-3e11a1f8078e.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image238a03fd-b769-4bd0-aa9f-dd3496646c8c.jpg",
+      "PackagePath": "staticwebassets\\images\\Image238a03fd-b769-4bd0-aa9f-dd3496646c8c.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image24789c14-f470-41f4-a99d-b96fabe48b9c.jpg",
+      "PackagePath": "staticwebassets\\images\\Image24789c14-f470-41f4-a99d-b96fabe48b9c.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image273bc570-06cb-4cdc-b039-9d7a6d8b1fbe.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image273bc570-06cb-4cdc-b039-9d7a6d8b1fbe.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image2750bf73-9708-44eb-930b-cd59cc2f9f66.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image2750bf73-9708-44eb-930b-cd59cc2f9f66.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image28fc15d7-4134-4a09-b266-456a4df563f5.jpg",
+      "PackagePath": "staticwebassets\\images\\Image28fc15d7-4134-4a09-b266-456a4df563f5.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image2a540638-319f-4af4-8a43-0543941f7b89.bmp",
+      "PackagePath": "staticwebassets\\images\\Image2a540638-319f-4af4-8a43-0543941f7b89.bmp"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image2e3700a4-1751-4f20-9deb-8b15552e78c0.jpg",
+      "PackagePath": "staticwebassets\\images\\Image2e3700a4-1751-4f20-9deb-8b15552e78c0.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image3f184e8c-035e-4c9a-a466-85556cd7a71b.png",
+      "PackagePath": "staticwebassets\\images\\Image3f184e8c-035e-4c9a-a466-85556cd7a71b.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image406d823f-854d-40cf-9b07-67e0631465d7.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image406d823f-854d-40cf-9b07-67e0631465d7.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image4271430a-7636-449f-ba21-44eb6b2da755.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image4271430a-7636-449f-ba21-44eb6b2da755.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image460fbae5-b54c-4044-8f21-8c1fd5bdfdf9.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image460fbae5-b54c-4044-8f21-8c1fd5bdfdf9.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image4658d5c3-a320-4c58-ab8e-5e02c8de37a4.jpg",
+      "PackagePath": "staticwebassets\\images\\Image4658d5c3-a320-4c58-ab8e-5e02c8de37a4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image491d8ed0-c8ad-4fe3-91bb-016249b53e68.jpg",
+      "PackagePath": "staticwebassets\\images\\Image491d8ed0-c8ad-4fe3-91bb-016249b53e68.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image4ce429fe-3d90-465a-9f5b-df852d58e622.jpg",
+      "PackagePath": "staticwebassets\\images\\Image4ce429fe-3d90-465a-9f5b-df852d58e622.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image4f0e6060-502c-43ad-a1fd-171d317db0e7.png",
+      "PackagePath": "staticwebassets\\images\\Image4f0e6060-502c-43ad-a1fd-171d317db0e7.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image531d06e8-d26b-4d0c-bf37-422240448ea7.jpg",
+      "PackagePath": "staticwebassets\\images\\Image531d06e8-d26b-4d0c-bf37-422240448ea7.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image57e4f71e-a95b-4032-9dca-2719b683d08a.jpg",
+      "PackagePath": "staticwebassets\\images\\Image57e4f71e-a95b-4032-9dca-2719b683d08a.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image58383339-1d54-416b-ba84-fe37df90c720.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image58383339-1d54-416b-ba84-fe37df90c720.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image5a6f00ab-6f91-4afc-ab7e-3e39c19cd6ed.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image5a6f00ab-6f91-4afc-ab7e-3e39c19cd6ed.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image6196bdfd-3fd6-431c-a98a-aac7db10a22d.png",
+      "PackagePath": "staticwebassets\\images\\Image6196bdfd-3fd6-431c-a98a-aac7db10a22d.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image65ada2f3-3349-4095-b707-56bddf634dda.jpg",
+      "PackagePath": "staticwebassets\\images\\Image65ada2f3-3349-4095-b707-56bddf634dda.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image662fec93-763f-472b-988f-d978cdfb8ad8.png",
+      "PackagePath": "staticwebassets\\images\\Image662fec93-763f-472b-988f-d978cdfb8ad8.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image6bb6e020-41a1-4a77-bdf9-1d16be8c6cdf.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image6bb6e020-41a1-4a77-bdf9-1d16be8c6cdf.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image6ee18144-cc46-4211-a278-43d27cf64573.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image6ee18144-cc46-4211-a278-43d27cf64573.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7102efc6-33a0-4f9e-8429-80f119bb30e3.jpg",
+      "PackagePath": "staticwebassets\\images\\Image7102efc6-33a0-4f9e-8429-80f119bb30e3.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image75ed9e7c-1241-44de-9ac8-a36c66c532df.jpg",
+      "PackagePath": "staticwebassets\\images\\Image75ed9e7c-1241-44de-9ac8-a36c66c532df.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7625ecc1-b26d-4547-b80e-0ba58f59d688.jpg",
+      "PackagePath": "staticwebassets\\images\\Image7625ecc1-b26d-4547-b80e-0ba58f59d688.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image79f2b3bb-e33b-4d0f-bf64-457ed5e0da98.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image79f2b3bb-e33b-4d0f-bf64-457ed5e0da98.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7c96c6bc-5939-4fbb-801c-c2e365e6e93a.png",
+      "PackagePath": "staticwebassets\\images\\Image7c96c6bc-5939-4fbb-801c-c2e365e6e93a.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7ca05f3d-fe0e-48fc-8210-e097fa845ec8.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image7ca05f3d-fe0e-48fc-8210-e097fa845ec8.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7dc5a867-65a1-4f1e-9a50-bf56f23505ab.png",
+      "PackagePath": "staticwebassets\\images\\Image7dc5a867-65a1-4f1e-9a50-bf56f23505ab.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image7fb2f38f-7322-4550-9e08-58160598322f.png",
+      "PackagePath": "staticwebassets\\images\\Image7fb2f38f-7322-4550-9e08-58160598322f.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image887e8048-1703-4e46-b751-be6d8f873e89.jpg",
+      "PackagePath": "staticwebassets\\images\\Image887e8048-1703-4e46-b751-be6d8f873e89.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image89f31966-4877-4671-a138-af3920980d99.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image89f31966-4877-4671-a138-af3920980d99.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image8ea2c27a-2ef0-454a-805e-c0b3c029e79a.jpg",
+      "PackagePath": "staticwebassets\\images\\Image8ea2c27a-2ef0-454a-805e-c0b3c029e79a.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image8f3d0e88-3653-477f-8064-7d9fc30c14b4.png",
+      "PackagePath": "staticwebassets\\images\\Image8f3d0e88-3653-477f-8064-7d9fc30c14b4.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image92627968-e947-4344-a84d-1492b34de7aa.jpeg",
+      "PackagePath": "staticwebassets\\images\\Image92627968-e947-4344-a84d-1492b34de7aa.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image927d0095-c93b-4f4a-ac78-677a58c7646c.png",
+      "PackagePath": "staticwebassets\\images\\Image927d0095-c93b-4f4a-ac78-677a58c7646c.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image96d5afc8-4971-4a08-be7c-b318869091e9.jpg",
+      "PackagePath": "staticwebassets\\images\\Image96d5afc8-4971-4a08-be7c-b318869091e9.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image99c6c1fc-1e8a-4aa1-9fbd-bc46f09c9a53.jpg",
+      "PackagePath": "staticwebassets\\images\\Image99c6c1fc-1e8a-4aa1-9fbd-bc46f09c9a53.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Image9a6d5578-858b-4777-8f13-2c234ab0b787.jpg",
+      "PackagePath": "staticwebassets\\images\\Image9a6d5578-858b-4777-8f13-2c234ab0b787.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagea2135963-97a0-42db-bb3f-7d5445a90dcc.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagea2135963-97a0-42db-bb3f-7d5445a90dcc.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagea3e560f9-563b-4e7e-9118-476116ee3c22.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagea3e560f9-563b-4e7e-9118-476116ee3c22.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagea8cceb16-b5ba-4e28-9a6a-a82f627c5a54.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagea8cceb16-b5ba-4e28-9a6a-a82f627c5a54.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageab10e72d-2990-442f-8c8a-3362efe3f53f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imageab10e72d-2990-442f-8c8a-3362efe3f53f.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageadd451e3-43bc-4c45-8091-992db44ed5ac.jpg",
+      "PackagePath": "staticwebassets\\images\\Imageadd451e3-43bc-4c45-8091-992db44ed5ac.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageb0dfcee9-29e0-4058-8298-3888437ccebf.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imageb0dfcee9-29e0-4058-8298-3888437ccebf.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageb2383419-73b1-4b6f-97c1-d7b2c23d93d4.png",
+      "PackagePath": "staticwebassets\\images\\Imageb2383419-73b1-4b6f-97c1-d7b2c23d93d4.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageb584c663-4130-416c-ad86-f545756c2e53.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imageb584c663-4130-416c-ad86-f545756c2e53.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageb8d1fca1-8961-46c5-b54b-5533892aad6a.jpg",
+      "PackagePath": "staticwebassets\\images\\Imageb8d1fca1-8961-46c5-b54b-5533892aad6a.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagebc2650ec-c883-447b-8e49-ce75731abf48.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagebc2650ec-c883-447b-8e49-ce75731abf48.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagebe1650d4-f5d9-4c08-8a94-394418193946.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagebe1650d4-f5d9-4c08-8a94-394418193946.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagebf5fa988-e883-4f3f-b563-661e7a7c043f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagebf5fa988-e883-4f3f-b563-661e7a7c043f.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagec1f6e10e-618a-40e9-86eb-f3963765c142.png",
+      "PackagePath": "staticwebassets\\images\\Imagec1f6e10e-618a-40e9-86eb-f3963765c142.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagec1feac30-2fd3-4aca-8aff-ee04d3cb0c62.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagec1feac30-2fd3-4aca-8aff-ee04d3cb0c62.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagec680f85a-0d4d-4954-a13b-132c10b23889.png",
+      "PackagePath": "staticwebassets\\images\\Imagec680f85a-0d4d-4954-a13b-132c10b23889.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageca3d8e57-04a9-4dd7-aae5-4c1a8014860e.png",
+      "PackagePath": "staticwebassets\\images\\Imageca3d8e57-04a9-4dd7-aae5-4c1a8014860e.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageca4e2f71-2cac-4ad4-8463-f2dfddbed11e.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imageca4e2f71-2cac-4ad4-8463-f2dfddbed11e.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagece9010d5-7623-42c7-bca1-564937412c5f.png",
+      "PackagePath": "staticwebassets\\images\\Imagece9010d5-7623-42c7-bca1-564937412c5f.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagecf701af3-db44-4d35-b749-ee2afbe0118f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagecf701af3-db44-4d35-b749-ee2afbe0118f.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imaged65ddadb-90af-4f41-b8be-587c30e3f097.jpg",
+      "PackagePath": "staticwebassets\\images\\Imaged65ddadb-90af-4f41-b8be-587c30e3f097.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagedb789893-8ee3-4008-bd68-ecf3a69acc50.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagedb789893-8ee3-4008-bd68-ecf3a69acc50.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagede4547ca-ad5b-4f3f-bd02-5eeb2e47c26b.bmp",
+      "PackagePath": "staticwebassets\\images\\Imagede4547ca-ad5b-4f3f-bd02-5eeb2e47c26b.bmp"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagee15854aa-7065-4e38-9c6b-955f3064b4bd.png",
+      "PackagePath": "staticwebassets\\images\\Imagee15854aa-7065-4e38-9c6b-955f3064b4bd.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagee971cca1-7214-4d14-ac01-be727ac0ed7a.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagee971cca1-7214-4d14-ac01-be727ac0ed7a.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagee9ef5cf1-966c-4065-ab20-a99b6a112d9f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imagee9ef5cf1-966c-4065-ab20-a99b6a112d9f.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imageedbc2db4-a323-45bd-83a0-df9b32bfb03e.jpeg",
+      "PackagePath": "staticwebassets\\images\\Imageedbc2db4-a323-45bd-83a0-df9b32bfb03e.jpeg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagef1f3775c-aedc-4097-b3c6-f9514fa5747f.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagef1f3775c-aedc-4097-b3c6-f9514fa5747f.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagef2aab4be-684f-4acf-8f35-3ca023b07f7f.png",
+      "PackagePath": "staticwebassets\\images\\Imagef2aab4be-684f-4acf-8f35-3ca023b07f7f.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagef33423c6-e309-4691-a633-26ec3f81ec7b.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagef33423c6-e309-4691-a633-26ec3f81ec7b.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagef781e644-7d0c-4581-9aa9-e111efc46857.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagef781e644-7d0c-4581-9aa9-e111efc46857.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagef925c952-2574-4284-a0f1-cceb8f18c915.png",
+      "PackagePath": "staticwebassets\\images\\Imagef925c952-2574-4284-a0f1-cceb8f18c915.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagefac87fb0-fafa-4504-a84a-d8787c11c8e4.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagefac87fb0-fafa-4504-a84a-d8787c11c8e4.jpg"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\Imagefad30ff8-db80-4149-9de8-6a2e5e144614.png",
+      "PackagePath": "staticwebassets\\images\\Imagefad30ff8-db80-4149-9de8-6a2e5e144614.png"
+    },
+    {
+      "Id": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\wwwroot\\images\\bg\\1.html",
+      "PackagePath": "staticwebassets\\images\\bg\\1.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restuarant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Restuarant.props",
+      "PackagePath": "build\\Restuarant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Restuarant.props",
+      "PackagePath": "buildMultiTargeting\\Restuarant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Restuarant.props",
+      "PackagePath": "buildTransitive\\Restuarant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

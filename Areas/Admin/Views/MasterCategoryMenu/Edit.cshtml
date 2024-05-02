@@ -1,0 +1,49 @@
+﻿@model Restuarant.Areas.Admin.ViewModels.MasterCategoryMenuModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="pagetitle">
+
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="MasterCategoryMenu">Category Menu</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </nav>
+</div>
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <form asp-action="Edit" class="row g-3">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="col-sm-10">
+                            <label asp-for="MasterCategoryMenuName" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input asp-for="MasterCategoryMenuName" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="MasterCategoryMenuName" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-sm-12 d-inline-flex justify-content-end">
+                                <a asp-action="Index" class="btn btn-primary btn-backtolist">
+                                    Back To List
+                                </a>
+                                <div class="form-group">
+                                    <input type="submit" value="Save" class="btn btn-success" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

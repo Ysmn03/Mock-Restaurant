@@ -1,0 +1,43 @@
+﻿@model Restuarant.Areas.Admin.ViewModels.RegisterModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Areas/Admin/Views/Shared/default.cshtml";
+}
+
+<div class="pt-4 pb-2">
+    <h5 class="card-title text-center pb-0 fs-4">Create an Account</h5>
+    <p class="text-center small">Enter your personal details to create account</p>
+</div>
+<form asp-action="Register" class="row g-3 needs-validation" novalidate="">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-12">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="Password" class="form-label"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="ConfirmPassword" class="form-label"></label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <div class="form-check">
+            <input class="form-check-input" name="terms" type="checkbox" value="" id="acceptTerms" required="">
+            <label class="form-check-label" for="acceptTerms">I agree and accept the <a href="#">terms and conditions</a></label>
+            <div class="invalid-feedback">You must agree before submitting.</div>
+        </div>
+    </div>
+    <div class="col-12">
+        <button class="btn btn-primary w-100" type="submit">Create Account</button>
+    </div>
+    <div class="col-12">
+        <p class="small mb-0">Already have an account? <a asp-action="Login">Log in</a></p>
+    </div>
+</form>
+

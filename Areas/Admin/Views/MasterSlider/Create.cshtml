@@ -1,0 +1,82 @@
+﻿@model Restuarant.Areas.Admin.ViewModels.MasterSliderModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="pagetitle">
+    <h1>Create</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="MasterSlider">Slider</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div>
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <form asp-action="Create" enctype="multipart/form-data" class="row g-3">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row mb-3">
+                            <label asp-for="MasterSliderTitle" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input asp-for="MasterSliderTitle" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="MasterSliderTitle" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <label asp-for="MasterSliderBreef" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input asp-for="MasterSliderBreef" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="MasterSliderBreef" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <label asp-for="MasterSliderDesc" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input asp-for="MasterSliderDesc" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="MasterSliderDesc" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <label asp-for="MasterSliderUrl" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input asp-for="MasterSliderUrl" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="MasterSliderUrl" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <label asp-for="File" class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-3">
+                                <input asp-for="File" class="form-control" />
+
+                            </div>
+                            <span asp-validation-for="File" class="text-danger"></span>
+                        </div>
+                        <br /> <br />
+                        <br /> <br />
+                        <div class="row mb-3">
+                            <div class="col-sm-12 d-inline-flex justify-content-end">
+                                <a asp-action="Index" class="btn btn-primary btn-backtolist">
+                                    Back To List
+                                </a>
+                                <button type="submit" value="Create" class="btn btn-success">
+                                    Save
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,336 @@
+﻿@model Restuarant.ViewsModel.HomeViewModel
+@{
+    ViewData["Title"] = "About";
+    Layout = "";
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<!-- Mirrored from htmldemo.hasthemes.com/basmoti/basmoti/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jul 2021 11:16:38 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Basmoti - Restaurant Bootstrap 5 Template</title>
+    <meta name="description" content="">
+    <meta name="robots" content="noindex, follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/img/favicon.png">
+
+    <!-- all css here -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/icons.css">
+    <link rel="stylesheet" href="~/assets/css/plugins.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <script src="~/assets/js/vendor/modernizr-3.11.7.min.js"></script>
+</head>
+<body>
+    <!-- header start -->
+    <header class="header-area transparent-bar header-black">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-4 col-5 col-sm-4">
+                    <div class="logo">
+                        <a href="">
+                            <img alt="" src="~/images/@Model.SystemSetting.SystemSettingLogoImageUrl2">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-8 col-7 col-sm-8 relative">
+                    <div class="menu-search-bundle">
+                        <div class="main-menu">
+                            <nav>
+                                <ul>
+                                    @foreach (var item in Model.ListMasterMenu)
+                                    {
+                                        <li class="top-hover">
+                                            <a href="@item.MasterMenuUrl">@item.MasterMenuName</a>
+                                        </li>
+                                    }
+
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="search-wrap">
+                            <button class="search-toggle">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            <div class="search">
+                                <form action="#">
+                                    <input type="search" placeholder="Search here">
+                                    <button type="submit">
+                                        Search
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-menu-area d-md-block d-block col-md-12 col-lg-12 col-12 d-lg-none d-xl-none">
+                    <div class="mobile-menu">
+                        <nav id="mobile-menu-active">
+                            <ul class="menu-overflow">
+                                <li>
+                                    <a href="#">HOME</a>
+                                    <ul>
+                                        <li><a href="index.html">home version 1</a></li>
+                                        <li><a href="index-2.html">home version 2</a></li>
+                                        <li><a href="index-3.html">home version 3</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">pages</a>
+                                    <ul>
+                                        <li><a href="about-us.html">about us </a></li>
+                                        <li><a href="menu.html">menu style 1</a></li>
+                                        <li><a href="menu-2.html">menu style 2</a></li>
+                                        <li><a href="gallery.html">gallery style 1</a></li>
+                                        <li><a href="gallery-2.html">gallery style 2</a></li>
+                                        <li><a href="contact.html">contact us</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">menu</a>
+                                    <ul>
+                                        <li>
+                                            <a href="#">menu list 01</a>
+                                            <ul>
+                                                <li><a href="menu.html">salad</a></li>
+                                                <li><a href="menu.html">sandwich</a></li>
+                                                <li><a href="menu.html">bread</a></li>
+                                                <li><a href="menu.html">steak</a></li>
+                                                <li><a href="menu.html">tuna steak</a></li>
+                                                <li><a href="menu.html">spaghetti </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">menu list 02</a>
+                                            <ul>
+                                                <li><a href="menu.html">rice</a></li>
+                                                <li><a href="menu.html">pizza</a></li>
+                                                <li><a href="menu.html">hamburger</a></li>
+                                                <li><a href="menu.html">eggs</a></li>
+                                                <li><a href="menu.html">sauces</a></li>
+                                                <li><a href="menu.html">apple juice</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">menu list 03</a>
+                                            <ul>
+                                                <li><a href="menu.html">milk</a></li>
+                                                <li><a href="menu.html">grape juice</a></li>
+                                                <li><a href="menu.html">cookie</a></li>
+                                                <li><a href="menu.html">candy</a></li>
+                                                <li><a href="menu.html">cake</a></li>
+                                                <li><a href="menu.html">cupcake</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">menu list 04</a>
+                                            <ul>
+                                                <li><a href="menu.html">pie</a></li>
+                                                <li><a href="menu.html">strawberry</a></li>
+                                                <li><a href="menu.html">sandwich</a></li>
+                                                <li><a href="menu.html">bread</a></li>
+                                                <li><a href="menu.html">steak</a></li>
+                                                <li><a href="menu.html">hamburger</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">blog</a>
+                                    <ul>
+                                        <li><a href="blog-no-sidebar.html">Blog No sidebar</a></li>
+                                        <li><a href="blog.html">Blog sidebar</a></li>
+                                        <li><a href="blog-details.html">Blog details</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="contact.html"> Contact us </a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="breadcrumb-area bg-img ptb-80" style="background-image:url(/assets/img/banner/breath.jpg);">
+        <div class="container">
+            <div class="breadcrumb-content text-center">
+                <h3>about us</h3>
+                <ul>
+                    <li>
+                        <a href="/Home/Index">Home</a>
+                    </li>
+                    <li class="active">about us </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="about-area ptb-95">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div class="col-lg-6">
+                    <div class="about-content pr-30">
+                        <h2>@Model.SystemSetting.SystemSettingWelcomeNoteTitle </h2>
+                        <h3> @Model.SystemSetting.SystemSettingWelcomeNoteBreef</h3>
+                        <div class="about-peragraph">
+                            <p>@Model.SystemSetting.SystemSettingWelcomeNoteDesc</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="about-img">
+                        <img alt="" src="~/images/@Model.SystemSetting.SystemSettingWelcomeNoteImageUrl">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="services-area pt-100 pb-70 gray-bg">
+        <div class="container">
+            <div class="section-title text-center mb-50">
+                <h2>Our Services</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim nostrud exercitation ullamco laboris nisi.</p>
+            </div>
+            <div class="row">
+                @foreach (var item in Model.ListMasterServices)
+                {
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                        <div class="single-service text-center mb-30">
+                            <i @Html.Raw(item.MasterServicesImage)></i>
+                            <h3>@item.MasterServicesTitle</h3>
+                            <p>@item.MasterServicesDesc</p>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+
+
+    <footer class="footer-area">
+        <div class="footer-area-top black-bg pt-95 pb-60">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-title mb-30">
+                                <h4>About Us</h4>
+                            </div>
+                            <div class="footer-about">
+                                <p> Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do tempor eget loved dost venenatis.</p>
+                                <div class="footer-map">
+                                    <a href="@Model.SystemSetting.SystemSettingMapLocation"><i class="ion-ios-location-outline"></i> View on map</a>
+                                </div>
+                            </div>
+                            <div class="social-icon">
+                                <ul>
+                                    @foreach (var item in Model.ListMasterSocialMedia)
+                                    {
+                                        <li><a href="@item.MasterSocialMediaUrl"><i @Html.Raw(item.MasterSocialMediaImageUrl)></i></a></li>
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-title mb-30">
+                                <h4>contact Us</h4>
+                            </div>
+                            <div class="footer-cont-info">
+                                @foreach (var item in Model.ListMasterContactUsInformation)
+                                {
+                                    <div class="single-footer-cont-info">
+
+                                        <div class="cont-info-icon">
+                                            <i @Html.Raw(item.MasterContactUsInformationImageUrl)></i>
+                                        </div>
+                                        <div class="cont-info-content">
+                                            <p>
+                                                @item.MasterContactUsInformationIdesc
+                                            </p>
+                                        </div>
+                                    </div>
+                                }
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-title mb-30">
+                                <h4>Opening Time</h4>
+                            </div>
+                            <div class="open-time pr-30">
+                                <ul>
+                                    @foreach (var item in Model.ListMasterWorkingHours)
+                                    {
+                                        <li>
+                                            @item.MasterWorkingHoursIdName
+                                            <span>@item.MasterWorkingHoursIdTimeFormTo</span>
+                                        </li>
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-title mb-30">
+                                <h4>Newsletter</h4>
+                            </div>
+                            <div class="newsletter-style">
+                                <p> Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do.</p>
+                                <div id="mc_embed_signup" class="subscribe-form ">
+                                    <form asp-controller="Home" asp-action="AddTransactionNewsletter">
+                                        <div class="mc-form">
+                                            <input class="email" type="email" asp-for="TransactionNewsletter.TransactionNewsletterEmail" placeholder="Enter your email">
+                                            <div class="mc-news" aria-hidden="true">
+                                                <input type="hidden" value="" tabindex="-1" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef">
+                                            </div>
+                                            <span asp-validation-for="TransactionNewsletter.TransactionNewsletterEmail" class="text-danger"></span>
+                                            <div class="clear">
+                                                <input id="mc-embedded-subscribe" class="button" type="submit" name="subscribe" value="Subscribe">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom black-bg-2 pb-25 pt-25">
+            <div class="container">
+                <div class="copyright text-center">
+                    <p>Copyright © <a href="#">Basmoti</a>. All Right Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+    <!-- all js here -->
+    <script src="~/assets/js/vendor/jquery-v1.12.4.min.js"></script>
+    <script src="~/assets/js/popper.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/ajax-mail.js"></script>
+    <script src="~/assets/js/plugins.js"></script>
+    <script src="~/assets/js/main.js"></script>
+</body>
+
+<!-- Mirrored from htmldemo.hasthemes.com/basmoti/basmoti/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jul 2021 11:16:39 GMT -->
+</html>

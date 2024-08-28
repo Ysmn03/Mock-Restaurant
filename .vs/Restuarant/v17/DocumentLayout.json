@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05E1773-2790-4E2A-86E1-44955C1C2CC1}|Restuarant.csproj|c:\\yasmin\\.net\\restaurant\\restuarant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05E1773-2790-4E2A-86E1-44955C1C2CC1}|Restuarant.csproj|solutionrelative:index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Index.cshtml",
+              "ToolTip": "C:\\Yasmin\\.NET\\Restaurant\\Restuarant\\Index.cshtml",
+              "RelativeToolTip": "Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:07:03.325Z",
+              "EditorCaption": ""
             }
           ]
         }

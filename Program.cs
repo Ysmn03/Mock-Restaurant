@@ -1,19 +1,25 @@
-using System.Configuration;
-using System;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Restuarant.Models;
-using Microsoft.AspNetCore.Hosting;
 using Restuarant.Models.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add services to the container.
 builder.Services.AddMvc(x => x.EnableEndpointRouting = false);
-builder.Services.AddDbContext<AppDbContext>(DbContext=>
+
+// Get the connection string from environment variables
+string connectionString = Environment.GetEnvironmentVariable("SQLCONNECTIONSTRING");
+
+builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    DbContext.UseSqlServer(builder.Configuration.GetConnectionString("SqlCon"));
+    options.UseSqlServer(connectionString);
 });
-builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<AppDbContext>();
+
+// Register repositories
 builder.Services.AddScoped<IRepository<MasterMenu>, MasterMenuRepository>();
 builder.Services.AddScoped<IRepository<MasterOffer>, MasterOfferRepository>();
 builder.Services.AddScoped<IRepository<TransactionBookTable>, TransactionBookTableRepository>();
@@ -31,27 +37,28 @@ builder.Services.AddScoped<IRepository<MasterSlider>, MasterSliderRepository>();
 
 builder.Services.ConfigureApplicationCookie(options =>
 {
-    options.LoginPath = $"/Admin/Account/Login";
+    options.LoginPath = "/Admin/Account/Login";
 });
 
-
 var app = builder.Build();
+
 app.UseRouting();
 app.UseStaticFiles();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseMvcWithDefaultRoute();
-app.UseEndpoints(app =>
+
+app.UseEndpoints(endpoints =>
 {
-    app.MapControllerRoute(
+    endpoints.MapControllerRoute(
         name: "areas",
         pattern: "{area:exists}/{controller=Account}/{action=Login}/{Id?}"
-        );
+    );
 
-    app.MapControllerRoute(
-      name: "default",
-      pattern: "{controller=Home}/{action=Index}/{Id?}"
-      );
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{Id?}"
+    );
 });
 
 app.Run();

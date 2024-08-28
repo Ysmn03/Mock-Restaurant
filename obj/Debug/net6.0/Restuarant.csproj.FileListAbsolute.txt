@@ -503,3 +503,4 @@ C:\Yasmin\.NET\Restaurant\Restuarant\obj\Debug\net6.0\Restuarant.genruntimeconfi
 C:\Yasmin\.NET\Restaurant\Restuarant\obj\Debug\net6.0\ref\Restuarant.dll
 C:\Yasmin\.NET\Restaurant\Restuarant\bin\Debug\net6.0\libman.json
 C:\Yasmin\.NET\Restaurant\Restuarant\obj\Debug\net6.0\Restuarant.csproj.Up2Date
+C:\Yasmin\.NET\Restaurant\Restuarant\obj\Debug\net6.0\Restuarant.sourcelink.json
